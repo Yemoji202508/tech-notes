@@ -7,6 +7,9 @@
 ### AWS
 - [IoT Core](./aws/iot-core/) - AWS IoT Core 与 MQTT 架构实践
 
+### Claude
+- [Skills](./claude/skills/) - Claude Skills 深度解析与实践指南
+
 ### Spring Boot
 - [Performance](./spring-boot/performance/) - Spring Boot 3.x 性能优化与可观测性
 
@@ -16,13 +19,17 @@
 - [从 HTTP 轮询到 MQTT：我们在 AWS IoT Core 上的架构演进与实战复盘](./aws/iot-core/从%20HTTP%20轮询到%20MQTT：我们在%20AWS%20IoT%20Core%20上的架构演进与实战复盘.pdf) - 原文 PDF
 - [AWS IoT Core MQTT 知识点总结](./aws/iot-core/AWS_IoT_Core_MQTT_知识点总结.md) - 学习笔记
 
+### Claude Skills
+- [Claude Skills 不就是把提示词存个文件夹吗？](./claude/skills/Claude%20Skills%20不就是把提示词存个文件夹吗？.pdf) - 刘小排原文 PDF
+- [Claude Skills 通俗理解指南](./claude/skills/Claude_Skills_通俗理解.md) - 通俗解读与实践案例
+
 ### Spring Boot 性能优化
 - [Spring Boot 3.x 性能优化最佳实践](./spring-boot/performance/Spring_Boot_3.x_性能优化最佳实践.md) - 基于 Java 21 的现代化实践指南
 - [Spring Boot 进阶：企业级性能与可观测性指南](./spring-boot/performance/Spring%20Boot%20进阶：企业级性能与可观测性指南.pdf) - 原文 PDF
 
 ## 🏷️ 标签
 
-`AWS` `IoT` `MQTT` `架构设计` `物联网` `Spring Boot` `Java 21` `Virtual Threads` `性能优化` `可观测性` `云原生`
+`AWS` `IoT` `MQTT` `架构设计` `物联网` `Claude` `AI` `Skills` `Prompt Engineering` `Agent` `Spring Boot` `Java 21` `Virtual Threads` `性能优化` `可观测性` `云原生`
 
 ## 📝 说明
 
@@ -30,4 +37,4 @@
 
 ---
 
-**最后更新**: 2025-11-12
+**最后更新**: 2025-11-14
