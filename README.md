@@ -13,6 +13,9 @@
 ### Spring Boot
 - [Performance](./spring-boot/performance/) - Spring Boot 3.x 性能优化与可观测性
 
+### LLM（大语言模型）
+- [Fine-tuning](./llm/fine-tuning/) - 大模型微调基础知识（基于 LLaMA Factory）
+
 ## 📖 文章列表
 
 ### AWS IoT Core
@@ -27,9 +30,21 @@
 - [Spring Boot 3.x 性能优化最佳实践](./spring-boot/performance/Spring_Boot_3.x_性能优化最佳实践.md) - 基于 Java 21 的现代化实践指南
 - [Spring Boot 进阶：企业级性能与可观测性指南](./spring-boot/performance/Spring%20Boot%20进阶：企业级性能与可观测性指南.pdf) - 原文 PDF
 
+### LLM 大模型微调
+
+**基础教程**：
+- [微调基础概念](./llm/fine-tuning/01_微调基础概念.md) - 通俗理解微调原理和优势
+- [LoRA 微调详解](./llm/fine-tuning/02_LoRA微调详解.md) - 低秩适应微调技术全解析
+- [模型量化详解](./llm/fine-tuning/03_模型量化详解.md) - GPTQ、AWQ、GGUF 等量化方法对比
+- [模型评估方法](./llm/fine-tuning/04_模型评估方法.md) - 困惑度、BLEU、ROUGE 等评估指标
+
+**安装指南**：
+- [WSL2 安装 LLaMA Factory](./llm/fine-tuning/llama-factory/wsl-llama-factory-installation-guide.md) - Windows WSL2 环境完整安装手册
+- [Ubuntu 安装 LLaMA Factory](./llm/fine-tuning/llama-factory/ubuntu-llama-factory-installation-guide.md) - Ubuntu 系统完整安装指南（含 Docker）
+
 ## 🏷️ 标签
 
-`AWS` `IoT` `MQTT` `架构设计` `物联网` `Claude` `AI` `Skills` `Prompt Engineering` `Agent` `Spring Boot` `Java 21` `Virtual Threads` `性能优化` `可观测性` `云原生`
+`AWS` `IoT` `MQTT` `架构设计` `物联网` `Claude` `AI` `Skills` `Prompt Engineering` `Agent` `Spring Boot` `Java 21` `Virtual Threads` `性能优化` `可观测性` `云原生` `LLM` `大模型` `微调` `LoRA` `量化` `LLaMA Factory`
 
 ## 📝 说明
 
@@ -37,4 +52,4 @@
 
 ---
 
-**最后更新**: 2025-11-14
+**最后更新**: 2025-11-15
